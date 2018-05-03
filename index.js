@@ -12,7 +12,7 @@ const transporter = nodemailer.createTransport({
   secure: true, // use SSL
   auth: {
     user: "julien.boyer@wildcodeschool.fr",
-    pass: "djscrave93"
+    pass: "xxx" // le mot de passe est secret
   }
 });
 const mailOptions = {
