@@ -1,0 +1,26 @@
+{
+  "name": "dojothirteen",
+  "version": "1.0.0",
+  "description": "![enter image description here](https://amandeepmittal.gallerycdn.vsassets.io/extensions/amandeepmittal/expressjs/2.0.0/1509881293872/Microsoft.VisualStudio.Services.Icons.Default)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Symfomany/dojoExpress.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Symfomany/dojoExpress/issues"
+  },
+  "homepage": "https://github.com/Symfomany/dojoExpress#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "express": "^4.16.3",
+    "html-pdf": "^2.2.0",
+    "lodash": "^4.17.10",
+    "nodemailer": "^4.6.4"
+  }
+}
